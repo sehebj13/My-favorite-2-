@@ -1,0 +1,45 @@
+#welcome {
+    background-image: url(rainy.jpg);
+    text-align: center;
+    height: 800px;
+    color: deeppink;
+}
+
+h1 {
+    font-family: 'Kalam', cursive;
+    color: deeppink;
+}
+#bio{
+text-align:center;
+background-color:aliceblue;
+height:500px;
+}
+body{
+background-color:#E1BEE7;
+color: deeppink;
+}
+.menu {
+    position: absolute;
+    background-color:aliceblue;
+    cursor: pointer;
+    width: 100%;
+    float: right;
+    margin:0;
+}
+
+.link {
+    display: inline;
+    color: hotpink;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+    text-emphasis-color: none;
+}
+
+.link:hover {
+    background-color: cyan;
+}
+
+
+
